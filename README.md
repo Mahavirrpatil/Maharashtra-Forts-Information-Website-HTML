@@ -46,6 +46,12 @@ Information_of_forts_website_using_HTML
 ├── sindhudurg.html
 ├── images
 
+## Screenshots
+
+<img width="1915" height="1033" alt="Screenshot 2026-03-14 002842" src="https://github.com/user-attachments/assets/b79f4eb7-2424-447e-ba24-7cf1ade1c249" />
+<img width="1905" height="1012" alt="Screenshot 2026-03-14 002855" src="https://github.com/user-attachments/assets/c2b5914b-f9fa-4ee7-9857-b7d8d0478b4b" />
+<img width="1898" height="1021" alt="image" src="https://github.com/user-attachments/assets/4f782f6f-ccf2-4811-a8a5-e802154a62f6" />
+
 ## How to Run the Project
 
 1. Download the project files
